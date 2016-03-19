@@ -4,14 +4,10 @@
 
 ## Money ##
 
-Finance, money,
-
-By the billions
-
-Printed, traded
-
-All man's labor,
-
+Finance, money,  
+By the billions  
+Printed, traded  
+All man's labor,  
 Tabulated.
 
 *December 5 2015*
@@ -19,9 +15,7 @@ Tabulated.
 ## Bombed ##
 
 They looked at me and said
-
 He's not gonna make it.
-
 I could not feel my legs
 
 My left arm was missing
